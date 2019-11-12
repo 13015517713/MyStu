@@ -1,0 +1,3 @@
+﻿  StuList.cpp
+D:\vs\mfc\学生管理系统\学生管理系统\StuList.cpp(22,21): warning C4018: “<”: 有符号/无符号不匹配
+  学生管理系统.vcxproj -> D:\vs\mfc\学生管理系统\Debug\学生管理系统.exe
